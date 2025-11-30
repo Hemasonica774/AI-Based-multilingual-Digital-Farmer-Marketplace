@@ -21,15 +21,15 @@ No proper platform that combines AI insights, secure transactions, and multiling
 There is a need for an intelligent, transparent, and easy-to-use digital marketplace that empowers farmers and ensures fair trade.
 
 ## Features
-1. AI-Based Crop Price Prediction
-
+## AI-Based Crop Price Prediction
+   
 Forecasts future crop prices using ARIMA + N-HiTS models
 
 Helps farmers decide the right time to sell
 
 Uses historical, seasonal, and weather-based data
 
-2. Blockchain-Based Secure Transactions
+##  Blockchain-Based Secure Transactions
 
 Tamper-proof transaction records
 
@@ -37,7 +37,7 @@ Smart-contract–based instant payments
 
 Eliminates fraud and ensures transparency
 
-3. Multilingual AI Chatbot
+## Multilingual AI Chatbot
 
 Supports major Indian languages
 
@@ -45,7 +45,7 @@ Provides assistance through text/voice
 
 Helps low-literate farmers use the platform easily
 
-4. Direct Farmer-to-Buyer Marketplace
+##  Direct Farmer-to-Buyer Marketplace
 
 Upload crop products
 
@@ -53,14 +53,14 @@ Buyers can view, negotiate, and purchase directly
 
 Higher profit for farmers, better quality for buyers
 
-5. User Dashboards
+##  User Dashboards
 
 Farmer dashboard (products, price prediction, transactions)
 
 Buyer dashboard (browse, purchase, track orders)
 
 ## Requirements
-Hardware Requirements
+# Hardware Requirements
 
 Processor: Dual-core or higher
 
@@ -70,7 +70,7 @@ Hard Disk: 120GB
 
 Input: Keyboard, Mouse
 
-Software Requirements
+# Software Requirements
 
 Operating System: Windows 10/11
 

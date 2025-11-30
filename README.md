@@ -86,16 +86,4 @@ Blockchain: Smart Contracts or basic Blockchain module
 
 ## Result
 
-The system successfully:
-
-Predicts crop prices accurately using AI models
-
-Provides secure and transparent payments using blockchain
-
-Improves user accessibility with a multilingual chatbot
-
-Enables direct selling, increasing farmer income by eliminating middlemen
-
-Offers a user-friendly digital platform accessible to rural communities
-
-Overall, the project demonstrates a complete and scalable digital solution that enhances transparency, profitability, and inclusivity in agricultural trading.
+The system accurately predicts crop prices using AI models and provides farmers with reliable selling guidance.Blockchain-based transactions ensure secure, transparent, and fraud-free payments. Overall, the platform improves accessibility, eliminates middlemen, and increases farmers’ profits through a smart digital marketplace.

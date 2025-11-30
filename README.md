@@ -20,7 +20,7 @@ No proper platform that combines AI insights, secure transactions, and multiling
 
 There is a need for an intelligent, transparent, and easy-to-use digital marketplace that empowers farmers and ensures fair trade.
 
-## Features
+# Features
 ## AI-Based Crop Price Prediction
    
 Forecasts future crop prices using ARIMA + N-HiTS models
@@ -59,8 +59,8 @@ Farmer dashboard (products, price prediction, transactions)
 
 Buyer dashboard (browse, purchase, track orders)
 
-## Requirements
-# Hardware Requirements
+# Requirements
+## Hardware Requirements
 
 Processor: Dual-core or higher
 
@@ -70,7 +70,7 @@ Hard Disk: 120GB
 
 Input: Keyboard, Mouse
 
-# Software Requirements
+## Software Requirements
 
 Operating System: Windows 10/11
 
@@ -84,6 +84,6 @@ AI Tools: TensorFlow / PyTorch, Scikit-Learn
 
 Blockchain: Smart Contracts or basic Blockchain module
 
-## Result
+# Result
 
 The system accurately predicts crop prices using AI models and provides farmers with reliable selling guidance.Blockchain-based transactions ensure secure, transparent, and fraud-free payments. Overall, the platform improves accessibility, eliminates middlemen, and increases farmers’ profits through a smart digital marketplace.
